@@ -1,0 +1,13 @@
+Cost,Maintenance,Doors,Persons,Boot,Safety,Class
+
+VeryHigh,VeryHigh,2,2,Small,Low,Unacceptable
+VeryHigh,VeryHigh,2,2,Small,Medium,Unacceptable
+VeryHigh,VeryHigh,2,2,Small,High,Unacceptable
+VeryHigh,VeryHigh,2,2,Avg,Low,Unacceptable
+VeryHigh,VeryHigh,2,2,Avg,Medium,Unacceptable
+VeryHigh,VeryHigh,2,2,Avg,High,Unacceptable
+VeryHigh,VeryHigh,2,2,Big,Low,Unacceptable
+VeryHigh,VeryHigh,2,2,Big,Medium,Unacceptable
+VeryHigh,VeryHigh,2,2,Big,High,Unacceptable
+VeryHigh,VeryHigh,2,4,Small,Low,Unacceptable
+VeryHigh,VeryHigh,2,4,Small,Medium,Unacceptable
